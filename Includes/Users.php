@@ -1,10 +1,10 @@
-﻿<!DOCTYPE html>
-<html>
-<head>
-    <title></title>
-	<meta charset="utf-8" />
-</head>
-<body>
+<?php
+function GetProfile($id)
+{
 
-</body>
-</html>
+}
+function SetProfile($id)
+{
+   
+}
+?>

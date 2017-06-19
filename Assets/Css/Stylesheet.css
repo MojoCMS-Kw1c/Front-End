@@ -1,2 +1,28 @@
-﻿body {
+﻿*
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+body 
+{
+
+}
+
+.Menu
+{
+    background-color: #b91400;
+}
+
+.MenuItem 
+{
+    color: #bf360c;
+    background-color: #b91400;
+    display: block;
+    text-decoration: none;
+}
+
+MenuItem:hover
+{
+    background-color: #ff844b;
 }
